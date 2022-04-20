@@ -1,5 +1,5 @@
 # SDE-Project
 
-Team Members:
-Priyal Jain (M21CS013)
+Team Members:<br/>
+Priyal Jain (M21CS013) <br/>
 Shruti Sureshan (M21CS015)
